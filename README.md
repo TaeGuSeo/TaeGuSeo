@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TaeGuSeo
 - 👀 Interested in DATA ANALYTICS
 - 📫 How to reach me = tony3685@naver.com
-- 📌 instagram = t9_seo
+- 📌 instagram = @t9_seo
