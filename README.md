@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m on **a college**
+ 🔭 I’m on **Hanyang University**
  
  🌱 I’m currently learning **ML,DL**
 
